@@ -1,0 +1,60 @@
+body{
+    background-image: url("./img/fundo.png");
+    height: auto;
+    width: auto;
+}
+
+#jinxi{
+    padding-top: 5%;
+    display: block;
+}
+
+.titulo{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    margin-top:-500px;
+    font-family: 'Games', sans-serif;
+    color: #1f7fea;
+    text-shadow: 2px 2px black;
+    font-size: 40px;
+}
+
+
+.controles p{
+    display: inline;
+    width: 100%;
+    margin-top:-300px;
+    position: absolute;
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    color: white;
+}
+
+.botao1{
+    text-align: center;
+    border: 1px solid;
+    padding: 11px 21px;
+    background: #45114a;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: "Andale Mono", monospace;
+    text-decoration: none;
+    margin: auto;
+    margin-top: -150px;
+}
+
+div.mar_botao{
+    text-align: center;
+    padding: -30px 30px;
+    padding-top: -100px;
+    margin: 0;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: "Andale Mono", monospace;
+    text-decoration: none;
+    display: flex;
+}

@@ -1,0 +1,56 @@
+body{
+    background-image: url("./img/fundoinicio.png");
+    height: auto;
+    width: auto;
+}
+
+h1{
+    font-family: 'Games', sans-serif;
+    text-align: center;
+    font-size: 110px;
+    color: #9bd29b;
+    padding-top: 5%;
+    text-decoration-style: double;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px white;
+}
+
+#explica{
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+    color: white;
+}
+
+h3{
+    font-family: Andale Mono, monospace;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-align: center;
+    font-size: 20px;
+    color: #9bd29b;
+}
+
+.botao1{
+    text-align: center;
+    border: 1px solid;
+    padding: 11px 21px;
+    background: #9bd29b;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: "Andale Mono", monospace;
+    text-decoration: none;
+}
+
+div.mar_botao{
+    text-align: center;
+    padding: 11px 30px;
+    margin: 10px;
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    font-family: "Andale Mono", monospace;
+    text-decoration: none;
+}
